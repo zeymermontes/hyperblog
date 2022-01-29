@@ -2,5 +2,23 @@ body
 {
     text-align: center;
     font-family: "Arial";
-    color: deeppink;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+#container
+{
+    width: 70%;
+    border:1px solid rgb(88, 87, 87) ;
+    border-radius: 1rem;
+    padding: 1em;
+    text-align: left;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
